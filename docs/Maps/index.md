@@ -10,4 +10,5 @@
 
 ## Maps server for production
 
-- https://map.barikoi.com/
+- [Maps Production](https://map.barikoi.com/)
+
