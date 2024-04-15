@@ -8,7 +8,7 @@ This is private project for Maps Authentication server written in JS with TS and
 
 - [@rilusmahmud](https://www.github.com/RilusMahmud)
 
-***\*For any credentials please contat the Author.***
+***\*For any credentials please contact the Author.***
 
 ## Tech Stack
 
