@@ -7,7 +7,7 @@ This is private project for ***Maps Tileserver***, serving with martin and tiles
 
 - [@rilusmahmud](https://www.github.com/RilusMahmud)
 
-***\*For any credentials please contat the Author.***
+***\*For any credentials please contact the Author.***
 
 ## Tech Stack
 
