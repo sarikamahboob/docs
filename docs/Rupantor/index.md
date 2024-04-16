@@ -2,7 +2,7 @@
 
 ## Base URL:
 
-- [URL](http://rupantor.bmapsbd.com/)
+- [URL]
 
 ## Geocode
 
