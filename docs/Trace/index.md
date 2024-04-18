@@ -13,5 +13,5 @@
 
 ## Tech Stack
 
-**Frontend:** React, Redux, TypeScript, Ant Design, Deck.gl
+**Frontend:** React, Redux, TypeScript, Ant Design, Deck.gl, Socket.io
 
