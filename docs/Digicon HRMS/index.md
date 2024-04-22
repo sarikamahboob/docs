@@ -72,6 +72,13 @@ Dive into the attendance details with two submenus:
 
 - **Daily Attendance**: Get a day-to-day breakdown of attendance. Use filters like date, designation, process, branch, or search by name and DG ID. The table showcases attendance status (Device, Biometric, System) and attendance time. For System attendance, only working hours are displayed. Device attendance data also includes check-in and check-out locations.
 
-- **Monthly Attendance**: monthly attendance
+- **Monthly Attendance**: This view provides a day-by-day breakdown of attendance for the current month. If there are multiple types of attendance data (Device, Biometric, System), they are displayed serially for each day.
+
+## Announcement
+
+The Announcement section serves as a communication hub:
+
+- **For Employees**: Employees can post announcements and view only their own notifications in the table.
+- **For Admins**: Admins have the ability to post announcements for all users and can view all users' announcements in the table.
 
 Please note, some metrics on the Dashboard may vary based on the filters applied.
