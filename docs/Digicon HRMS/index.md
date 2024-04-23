@@ -81,4 +81,16 @@ The Announcement section serves as a communication hub:
 - **For Employees**: Employees can post announcements and view only their own notifications in the table.
 - **For Admins**: Admins have the ability to post announcements for all users and can view all users' announcements in the table.
 
+## Employee
+
+### Add Employee
+This section allows you to add employees individually or in bulk.
+
+### Current Employee
+This section lists all current employees. You can apply filters to this list and even export the entire list with all details. In this section, you can update employee details or remove an employee from the current list. Note that removing an employee here doesn't permanently delete them, but moves them to the 'Formal Employee' list.
+
+### Formal Employee
+This section lists all employees who have been removed from the 'Current Employee' list. You can view these employees and even restore them back to the 'Current Employee' list if needed.
+
+
 Please note, some metrics on the Dashboard may vary based on the filters applied.
