@@ -1,8 +1,55 @@
 # Digicon HRMS - Technical Documentation
 
+
 ## Overview
 
-Digicon HRMS is a comprehensive Human Resource Management System designed to manage and streamline the HR processes of your organization. It is a powerful and flexible tool that offers support for every aspect of your HR operations.
+
+Digicon HRMS is a comprehensive Human Resource Management System designed to efficiently manage and streamline your organization's HR processes. It stands as a powerful and flexible tool, offering support for every facet of your HR operations. By automating diverse processes and providing intuitive interfaces, it empowers both administrators and employees to streamline their workflows and concentrate on strategic initiatives.
+
+
+## Authors
+
+
+- [rakibulhasan](https://github.com/rakibul-hasan-1)
+
+
+- [sarikamahboob](https://github.com/sarikamahboob)
+
+
+**_\*For credentials and inquiries, please contact the authors._**
+
+
+## Technologies Used:
+
+
+The "Digicon HRMS" project utilizes a combination of front-end, back-end, and database technologies to deliver its functionalities effectively. These include:
+
+
+- **Front-end Technologies:**
+
+
+1. **Next.js:** React framework for SSR, SSG, and routing, enhancing React app performance and development simplicity.
+2. **Ant Design:** React UI library offering customizable UI components for a visually appealing and consistent HR management website interface.
+3. **Redux:** Predictable state container for managing application state and facilitating data flow between React components.
+4. **TypeScript:** Superset of JavaScript with static typing, enhancing code readability, maintainability, and scalability for the HR management website front end.
+
+
+- **Back-end Technologies:**
+1. **Laravel:** PHP framework for building robust back-end APIs with MVC architecture.
+2. **PHP:** Server-side scripting language for dynamic content generation and database interaction.
+3. **PostgreSQL:** Advanced open-source relational database for storing HR-related data.
+4. **PostGIS:** PostgreSQL extension for handling geographic objects and spatial data analysis.
+
+
+- **Additional Technologies:**
+
+
+1. **Git:** Version control system for tracking changes to the project codebase, facilitating collaboration among developers and ensuring code integrity.
+2. **Docker:** Containerization platform ensuring consistency and scalability in deployment.
+3. **NGINX:** Web server and reverse proxy server for handling incoming HTTP requests, load balancing, and serving static content, improving performance and reliability.
+4. **Sentry:** Application monitoring and error tracking tool to identify and address bugs and performance issues in the HRMS codebase.
+5. **Hotjar**: User behavior analytics tool to understand how users interact with the HRMS website, identify potential usability problems, and optimize the user experience.
+
 
 ## Features
 
