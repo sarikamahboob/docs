@@ -74,7 +74,7 @@ The "Digicon HRMS" project utilizes a combination of front-end, back-end, and da
 
 As a user, you have limited access compared to admins, primarily focused on submitting requests and accessing specific information relevant to your role within the organization. Here's an overview of the access privileges associated with the user role:
 
-* **Attendance**: Users can check their own attendance records.
+<!-- * **Attendance**: Users can check their own attendance records. -->
 * **Announcement**: Users can make announcements, view, and update their own announcements.
 * **Leave Request**: Users can request for leaves.
 * **Expense Request**: Users can submit their expenses for approval.
@@ -82,7 +82,7 @@ As a user, you have limited access compared to admins, primarily focused on subm
 * **Resign**: Users can submit their resignation
 * **Office Transport**: Users can request for office transport.
 
-Users can only view and manage their own information. By default, the user role is not contingent upon any specific roles and permissions. However, if there is a roles permission list for the user, then it will be counted.
+**_Users can only view and manage their own information. By default, users are not contingent upon any specific roles and permissions. However, if there is a roles permission list for the user, then it will be counted._**
 
 ### Admin Role
 
@@ -134,17 +134,17 @@ The Dashboard includes the following metrics:
 
 The values for Total Employees, Total Male, Total Female, Total Processes, and Former Employees do not depend on any filters. However, the values for other metrics on the Dashboard will depend on the date range, process, and branch filters.
 
-**_Only users with the Admin role and type can access the Dashboard Overview section._**
+**_Only users with the Admin role can access the Dashboard Overview section._**
 
 ### Attendance
 
 Dive into the attendance details with two submenus:
 
-- **Daily Attendance**: Get a day-to-day breakdown of attendance. The daily attendance table showcases attendance status (Device, Biometric, System), attendance time, and working hours. For System attendance, only working hours are displayed. Device attendance data also includes check-in and check-out locations. You can use filters like date, designation, process, branch, or search by name and DG ID. Both users and admins can also export the table data.
+- **Daily Attendance**: Get a day-to-day breakdown of attendance. The daily attendance table showcases attendance status (Device, Biometric, System), attendance time, and working hours. For System attendance, only working hours are displayed. Device attendance data also includes check-in and check-out locations. You can use filters like date, designation, process, branch, or search by name and DG ID. You can also export the table data also.
 
-- **Monthly Attendance**: This view provides a day-by-day breakdown of attendance for the current month. If there are multiple types of attendance data (Device, Biometric, System), they are displayed serially for each day. Same as daily attendance, you can apply the same filters, and only admins can export the table data.
+- **Monthly Attendance**: This view provides a day-by-day breakdown of attendance for the current month. If there are multiple types of attendance data (Device, Biometric, System), they are displayed serially for each day. Same as daily attendance, you can apply the same filters, and can export the table data also.
 
-**_Anyone with the user or admin role can view the daily and monthly attendance._**
+**_Anyone with the role permission can view and export the daily and monthly attendance._**
 
 ### Announcement
 
@@ -152,13 +152,13 @@ The Announcement section serves as a communication hub:
 
 - **Employees**: Employees can post announcements and update their own announcements only. They can also view announcements posted by other employees in the table.
 
-- **For Admins**: Admins have the ability to post announcements for all users and can view all users announcements in the table. Admins can update their own announcements only. Additionally, admins can add announcement types, which will be displayed when an employee is creating an announcement.
+- **For Admins**: Admins have the ability to post announcements for all users and can view all users announcements in the table. Admins can update their own announcements only. Additionally, users with the admin role permission can add announcement types, which will be displayed when an employee is creating an announcement.
 
 Date, announcement types, branch, and name filters are also available, which will be applied to the announcement table.
 
 **_Under the same process, everyone will receive notifications for announcements made by employees, which will be shown in the top nav bar._**
 
-## Employee
+<!-- ## Employee
 
 ### Add Employee
 This section allows you to add employees individually or in bulk.
@@ -170,4 +170,4 @@ This section lists all current employees. You can apply filters to this list and
 This section lists all employees who have been removed from the 'Current Employee' list. You can view these employees and even restore them back to the 'Current Employee' list if needed.
 
 
-Please note, some metrics on the Dashboard may vary based on the filters applied.
+Please note, some metrics on the Dashboard may vary based on the filters applied. -->
